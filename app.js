@@ -41,3 +41,4 @@ function getRandomColor() {
   const index = Math.floor(Math.random() * colors.length);
   return colors[index];
 }
+console.log("Гена + Олег + Сергей + Андрей = Любовь");
